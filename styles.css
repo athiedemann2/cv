@@ -3,7 +3,7 @@ body{
   margin: auto;
 }
 .top-container {
-  background-image: url("/Users/alexthiedemann/Documents/Web Development/CSS - My Site/Images/Mountains.jpeg");
+  background-image: url("Mountains.jpeg");
   width: 100%;
   height: 600px;
   background-size: cover;
